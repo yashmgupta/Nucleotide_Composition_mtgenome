@@ -6,8 +6,7 @@
 
 ## 📋 Overview
 
-This repository contains a comprehensive computational pipeline for analyzing nucleotide composition patterns across mitochondrial genomes. The analysis processes **1,032 complete mitochondrial genome sequences** and generates publication-quality visualizations of compositional patterns across 13 standard mitochondrial protein-coding genes.
-
+This repository contains a comprehensive computational pipeline for analyzing nucleotide composition patterns across mitochondrial genomes.
 **Author:** Dr. Yash Munnalal Gupta
 
 ## 🔬 Key Features
