@@ -1,0 +1,14 @@
+Original_Names,Normalized_Name,Complex,Function
+"NAD1, NADH1, MT-ND1",ND1,Complex I,NADH dehydrogenase subunit 1
+"NAD2, NADH2, MT-ND2",ND2,Complex I,NADH dehydrogenase subunit 2
+"NAD3, NADH3, MT-ND3",ND3,Complex I,NADH dehydrogenase subunit 3
+"NAD4, NADH4, MT-ND4",ND4,Complex I,NADH dehydrogenase subunit 4
+"NAD4L, NADH4L, MT-ND4L",ND4L,Complex I,NADH dehydrogenase subunit 4L
+"NAD5, NADH5, MT-ND5",ND5,Complex I,NADH dehydrogenase subunit 5
+"NAD6, NADH6, MT-ND6",ND6,Complex I,NADH dehydrogenase subunit 6
+"COB, CYB, MT-CYB",CYTB,Complex III,Cytochrome b
+"COX1, CO1, MT-CO1",COI,Complex IV,Cytochrome c oxidase subunit 1
+"COX2, CO2, MT-CO2",COII,Complex IV,Cytochrome c oxidase subunit 2
+"COX3, CO3, MT-CO3",COIII,Complex IV,Cytochrome c oxidase subunit 3
+MT-ATP6,ATP6,Complex V,ATP synthase F0 subunit 6
+MT-ATP8,ATP8,Complex V,ATP synthase F0 subunit 8
